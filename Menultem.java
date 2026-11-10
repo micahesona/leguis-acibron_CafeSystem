@@ -1,7 +1,7 @@
 /**
 Represents the parent class of all cafe menu items.
 Contains common item information and pricing behavior.
-@author Marlita C. Acibron
+@author Acibron & Leguis
 @version 1.0
 */
 public abstract class MenuItem {
